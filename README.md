@@ -1,12 +1,15 @@
-# 🌟 oi, seja bem-vindo 👋
+# 🌟 Oi, seja bem-vindo
+- Meu nome é Emannuel! 👋
 - Sou um programador iniciante 💻  
 - Gosto de aprender coisas novas e criar projetos enquanto estudo programação 🚀
 
-## 🛠️ linguagens que uso
+## 🛠️ Familiarizado com:
 ```txt
 🟨 JavaScript
 🐍 Python
-🔵 Luau
+🔵 LuaU
 🌐 HTML
 🎨 CSS
 ```
+## 🔗 Links
+- 💼 Portfólio: www.emannuel.xyz
